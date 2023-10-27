@@ -10,7 +10,8 @@ sites:
   - name: SliverRiver's Library
     url: https://library.restent.win
   - name: Pro features for Library
-    url: https://pro.restent.win
+    url: https://pro.restent.win/raw/S-Complex/Friends/main/links.json
+    method: GET
   - name: Upptime
     url: https://status.restent.win
 
