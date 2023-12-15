@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 295,
-    "timeDay": 145,
-    "timeWeek": 193,
-    "timeMonth": 283,
-    "timeYear": 295,
+    "time": 291,
+    "timeDay": 83,
+    "timeWeek": 171,
+    "timeMonth": 275,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2023-10-27": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 258,
-    "timeDay": 364,
-    "timeWeek": 277,
-    "timeMonth": 279,
-    "timeYear": 258,
+    "time": 262,
+    "timeDay": 498,
+    "timeWeek": 302,
+    "timeMonth": 288,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2023-11-11": 56,
       "2023-11-05": 9,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 365,
-    "timeDay": 289,
-    "timeWeek": 258,
-    "timeMonth": 236,
-    "timeYear": 365,
+    "time": 360,
+    "timeDay": 71,
+    "timeWeek": 259,
+    "timeMonth": 231,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2023-10-27": 29
     }
@@ -67,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.restent.win.ico",
     "slug": "pro-features-for-library",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
-    "time": 363,
-    "timeDay": 335,
-    "timeWeek": 222,
-    "timeMonth": 437,
-    "timeYear": 363,
+    "uptimeYear": "99.77%",
+    "time": 361,
+    "timeDay": 282,
+    "timeWeek": 213,
+    "timeMonth": 430,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2023-10-27": 163
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 156,
-    "timeDay": 263,
-    "timeWeek": 164,
+    "time": 154,
+    "timeDay": 40,
+    "timeWeek": 161,
     "timeMonth": 138,
-    "timeYear": 156,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2023-10-27": 29
     }
