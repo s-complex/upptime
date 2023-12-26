@@ -4,16 +4,26 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Ou's Intro
-    url: https://www.restent.win
+    url: https://www.gxres.net
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
   - name: Restent's Notebook
-    url: https://blog.restent.win
+    url: https://blog.gxres.net
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
   - name: SliverRiver's Library
-    url: https://library.restent.win
+    url: https://library.gxres.net
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
   - name: Pro features for Library
     url: https://pro.restent.win/raw/S-Complex/Friends/main/links.json
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
     method: GET
   - name: Upptime
     url: https://status.restent.win
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
 
 workflowSchedule:
   graphs: "0 */4 * * *"
@@ -41,6 +51,9 @@ status-website:
 commitMessages:
   commitAuthorName: "SliverRiver327"
   commitAuthorEmail: "148861329+SliverRiver327@users.noreply.github.com"
+
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org) | [Site source](https://github.com/s-complex/upptime)
 
 user-agent: "SliverRiver327 (https://github.com/S-Complex/upptime)"
 
