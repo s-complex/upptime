@@ -6,24 +6,24 @@ sites:
   - name: Ou's Intro
     url: https://www.gxres.net
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
   - name: Restent's Notebook
     url: https://blog.gxres.net
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
   - name: SliverRiver's Library
     url: https://library.gxres.net
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
-  - name: Pro features for Library
-    url: https://pro.restent.win/raw/S-Complex/Friends/main/links.json
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
+  - name: Friends linklist
+    url: https://prox.slirv.vip/raw/S-Complex/Friends/main/links.json
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
     method: GET
   - name: Upptime
-    url: https://status.restent.win
+    url: https://status.slirv.vip
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.restent.win)"
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
 
 workflowSchedule:
   graphs: "0 */4 * * *"
@@ -37,25 +37,27 @@ workflowSchedule:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.restent.win
+  cname: status.slirv.vip
   # baseUrl: /upptime
   logoUrl: https://library.restent.win/images/icons/favicon.webp
-  name: Sliver Complex Status by Upptime
+  name: Ou's Site Status
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: HomePage
+      href: https://www.gxres.net
   singleCommit: true
 
 commitMessages:
-  commitAuthorName: "SliverRiver327"
-  commitAuthorEmail: "148861329+SliverRiver327@users.noreply.github.com"
+  commitAuthorName: "slivermoe"
+  commitAuthorEmail: "148861329+slivermoe@users.noreply.github.com"
 
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org) | [Site source](https://github.com/s-complex/upptime)
 
-user-agent: "SliverRiver327 (https://github.com/S-Complex/upptime)"
+user-agent: "slivermoe (https://github.com/S-Complex/upptime)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
