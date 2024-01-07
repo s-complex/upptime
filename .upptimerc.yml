@@ -1,5 +1,5 @@
 # Change these first
-owner: S-Complex # Your GitHub organization or username, where this repository lives
+owner: s-complex # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -39,7 +39,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.slirv.vip
   # baseUrl: /upptime
-  logoUrl: https://library.restent.win/images/icons/favicon.webp
+  logoUrl: https://library.gxres.net/images/icons/favicon.webp
   name: Ou's Site Status
   navbar:
     - title: Status
@@ -57,7 +57,7 @@ commitMessages:
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org) | [Site source](https://github.com/s-complex/upptime)
 
-user-agent: "slivermoe (https://github.com/S-Complex/upptime)"
+user-agent: "slivermoe (https://github.com/s-complex/upptime)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
