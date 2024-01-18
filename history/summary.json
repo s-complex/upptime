@@ -127,19 +127,19 @@
     "url": "https://littleskin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/littleskin.cn.ico",
     "slug": "little-skin",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1383,
-    "timeDay": 1466,
-    "timeWeek": 1383,
-    "timeMonth": 1383,
-    "timeYear": 1383,
+    "status": "up",
+    "uptime": "94.54%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "94.54%",
+    "uptimeYear": "94.54%",
+    "time": 1206,
+    "timeDay": 1202,
+    "timeWeek": 1206,
+    "timeMonth": 1206,
+    "timeYear": 1206,
     "dailyMinutesDown": {
-      "2024-01-18": 0
+      "2024-01-18": 94
     }
   }
 ]
