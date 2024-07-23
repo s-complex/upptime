@@ -3,16 +3,20 @@ owner: s-complex # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Ou's Intro
+  - name: Homepage
     url: https://www.gxres.net
     headers:
       - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
-  - name: Restent's Notebook
+  - name: Blog
     url: https://blog.gxres.net
     headers:
       - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
-  - name: SliverRiver's Library
+  - name: Library
     url: https://library.gxres.net
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
+  - name: API
+    url: https://api.slirv.vip
     headers:
       - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
   - name: Upptime
@@ -21,6 +25,10 @@ sites:
       - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
   - name: Artalk
     url: https://artalk.slirv.vip
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
+  - name: Friends' src
+    url: https://friends-src.slirv.vip
     headers:
       - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
 
@@ -39,14 +47,12 @@ status-website:
   cname: status.slirv.vip
   # baseUrl: /upptime
   logoUrl: https://library.gxres.net/images/icons/favicon.webp
-  name: Ou's Site Status
+  name: Sliver Complex - Status
   navbar:
     - title: Index
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: HomePage
-      href: https://www.gxres.net
   singleCommit: true
 
 commitMessages:
