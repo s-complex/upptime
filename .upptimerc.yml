@@ -15,6 +15,18 @@ sites:
     url: https://library.gxres.net
     headers:
       - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
+  - name: Hyperlink Redirect
+    url: https://link.gxres.net
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
+  - name: Sliver Complex
+    url: https://slirv.vip
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
+  - name: R2 Storage
+    url: https://r2.slirv.vip
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
   - name: API
     url: https://api.slirv.vip
     headers:
@@ -25,6 +37,10 @@ sites:
       - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
   - name: Artalk
     url: https://artalk.slirv.vip
+    headers:
+      - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
+  - name: Umami
+    url: https://umami.slirv.vip
     headers:
       - "User-Agent: curl/8.2.1 (https://status.slirv.vip)"
 
