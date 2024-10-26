@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 172,
-    "timeDay": 102,
-    "timeWeek": 157,
-    "timeMonth": 164,
+    "timeDay": 101,
+    "timeWeek": 156,
+    "timeMonth": 163,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2024-10-15": 23
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 165,
-    "timeDay": 109,
-    "timeWeek": 138,
-    "timeMonth": 145,
+    "timeDay": 125,
+    "timeWeek": 139,
+    "timeMonth": 144,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-10-15": 23
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 170,
-    "timeDay": 106,
-    "timeWeek": 130,
-    "timeMonth": 165,
+    "timeDay": 115,
+    "timeWeek": 132,
+    "timeMonth": 163,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2024-10-15": 23
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 136,
-    "timeDay": 108,
-    "timeWeek": 117,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "time": 135,
+    "timeDay": 104,
+    "timeWeek": 116,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2024-10-15": 23
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 126,
-    "timeWeek": 122,
-    "timeMonth": 195,
-    "timeYear": 195,
+    "time": 203,
+    "timeDay": 368,
+    "timeWeek": 164,
+    "timeMonth": 203,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -103,16 +103,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/r2.slirv.vip.ico",
     "slug": "r2-storage",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 211,
-    "timeDay": 81,
-    "timeWeek": 157,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 217,
+    "timeDay": 321,
+    "timeWeek": 194,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2024-10-07": 23
     }
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 103,
-    "timeWeek": 200,
-    "timeMonth": 194,
-    "timeYear": 163,
+    "time": 164,
+    "timeDay": 287,
+    "timeWeek": 220,
+    "timeMonth": 201,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -147,13 +147,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 174,
-    "timeDay": 126,
-    "timeWeek": 178,
-    "timeMonth": 191,
+    "timeDay": 141,
+    "timeWeek": 187,
+    "timeMonth": 192,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2023-10-27": 29
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Artalk",
@@ -167,9 +165,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 914,
-    "timeDay": 909,
-    "timeWeek": 827,
-    "timeMonth": 878,
+    "timeDay": 795,
+    "timeWeek": 814,
+    "timeMonth": 874,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2024-07-11": 101,
@@ -188,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 678,
-    "timeWeek": 727,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "time": 677,
+    "timeDay": 860,
+    "timeWeek": 726,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   }
 ]
