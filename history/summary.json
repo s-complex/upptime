@@ -84,9 +84,9 @@
     "url": "https://slirv.vip",
     "icon": "https://icons.duckduckgo.com/ip3/slirv.vip.ico",
     "slug": "sliver-complex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,16 +95,18 @@
     "timeWeek": 163,
     "timeMonth": 159,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-05": 0
+    }
   },
   {
     "name": "R2 Storage",
     "url": "https://r2.slirv.vip/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/r2.slirv.vip.ico",
     "slug": "r2-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -114,6 +116,7 @@
     "timeMonth": 180,
     "timeYear": 191,
     "dailyMinutesDown": {
+      "2025-01-05": 0,
       "2024-10-07": 23
     }
   },
@@ -122,9 +125,9 @@
     "url": "https://api.slirv.vip",
     "icon": "https://icons.duckduckgo.com/ip3/api.slirv.vip.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,16 +136,18 @@
     "timeWeek": 158,
     "timeMonth": 165,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-05": 0
+    }
   },
   {
     "name": "Upptime",
     "url": "https://status.slirv.vip",
     "icon": "https://icons.duckduckgo.com/ip3/status.slirv.vip.ico",
     "slug": "upptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,7 +156,9 @@
     "timeWeek": 191,
     "timeMonth": 188,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-05": 0
+    }
   },
   {
     "name": "Artalk",
@@ -159,18 +166,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/artalk.slirv.vip.ico",
     "slug": "artalk",
     "status": "down",
-    "uptime": "81.02%",
+    "uptime": "80.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.02%",
+    "uptimeYear": "80.90%",
     "time": 780,
     "timeDay": 62,
     "timeWeek": 115,
     "timeMonth": 105,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-01-05": 71,
+      "2025-01-05": 869,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -252,18 +259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/umami.slirv.vip.ico",
     "slug": "umami",
     "status": "down",
-    "uptime": "23.58%",
+    "uptime": "23.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.58%",
+    "uptimeYear": "23.43%",
     "time": 265,
     "timeDay": 65,
     "timeWeek": 158,
     "timeMonth": 126,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-01-05": 71,
+      "2025-01-05": 869,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
