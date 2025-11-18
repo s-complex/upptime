@@ -58,18 +58,20 @@
     "url": "https://link.gxres.net",
     "icon": "https://icons.duckduckgo.com/ip3/link.gxres.net.ico",
     "slug": "hyperlink-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 121,
-    "timeWeek": 130,
-    "timeMonth": 132,
-    "timeYear": 151,
-    "dailyMinutesDown": {}
+    "time": 157,
+    "timeDay": 1827,
+    "timeWeek": 555,
+    "timeMonth": 238,
+    "timeYear": 160,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Sliver Complex",
@@ -94,18 +96,20 @@
     "url": "https://r2.insli.cc/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/r2.insli.cc.ico",
     "slug": "r2-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 225,
-    "timeWeek": 180,
-    "timeMonth": 161,
+    "time": 197,
+    "timeDay": 141,
+    "timeWeek": 164,
+    "timeMonth": 158,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "API",
