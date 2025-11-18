@@ -24,19 +24,19 @@
     "url": "https://blog.gxres.net",
     "icon": "https://icons.duckduckgo.com/ip3/blog.gxres.net.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "90.29%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.68%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 154,
-    "timeDay": 95,
-    "timeWeek": 121,
-    "timeMonth": 140,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 145,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-11-18": 140
+      "2025-11-18": 164
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://link.gxres.net",
     "icon": "https://icons.duckduckgo.com/ip3/link.gxres.net.ico",
     "slug": "hyperlink-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "90.32%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "88.67%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 173,
-    "timeDay": 1869,
-    "timeWeek": 1000,
-    "timeMonth": 422,
+    "timeDay": 1621,
+    "timeWeek": 933,
+    "timeMonth": 414,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-11-18": 139
+      "2025-11-18": 163
     }
   },
   {
