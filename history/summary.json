@@ -4,60 +4,6 @@
     "url": "https://www.gxres.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.gxres.net.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 102,
-    "timeWeek": 138,
-    "timeMonth": 151,
-    "timeYear": 155,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Blog",
-    "url": "https://blog.gxres.net",
-    "icon": "https://icons.duckduckgo.com/ip3/blog.gxres.net.ico",
-    "slug": "blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 128,
-    "timeWeek": 137,
-    "timeMonth": 146,
-    "timeYear": 152,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Library",
-    "url": "https://library.gxres.net",
-    "icon": "https://icons.duckduckgo.com/ip3/library.gxres.net.ico",
-    "slug": "library",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 108,
-    "timeWeek": 131,
-    "timeMonth": 137,
-    "timeYear": 148,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Hyperlink Redirect",
-    "url": "https://link.gxres.net",
-    "icon": "https://icons.duckduckgo.com/ip3/link.gxres.net.ico",
-    "slug": "hyperlink-redirect",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "99.98%",
@@ -65,12 +11,72 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
+    "timeDay": 120,
+    "timeWeek": 138,
+    "timeMonth": 150,
+    "timeYear": 155,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
+  },
+  {
+    "name": "Blog",
+    "url": "https://blog.gxres.net",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.gxres.net.ico",
+    "slug": "blog",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 154,
+    "timeDay": 105,
+    "timeWeek": 130,
+    "timeMonth": 144,
+    "timeYear": 151,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
+  },
+  {
+    "name": "Library",
+    "url": "https://library.gxres.net",
+    "icon": "https://icons.duckduckgo.com/ip3/library.gxres.net.ico",
+    "slug": "library",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 152,
+    "timeDay": 97,
+    "timeWeek": 125,
+    "timeMonth": 135,
+    "timeYear": 148,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
+  },
+  {
+    "name": "Hyperlink Redirect",
+    "url": "https://link.gxres.net",
+    "icon": "https://icons.duckduckgo.com/ip3/link.gxres.net.ico",
+    "slug": "hyperlink-redirect",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "100.00%",
+    "time": 157,
     "timeDay": 1827,
     "timeWeek": 555,
     "timeMonth": 238,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
@@ -78,18 +84,20 @@
     "url": "https://insli.cc",
     "icon": "https://icons.duckduckgo.com/ip3/insli.cc.ico",
     "slug": "sliver-complex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 260,
-    "timeWeek": 228,
-    "timeMonth": 187,
+    "timeDay": 172,
+    "timeWeek": 210,
+    "timeMonth": 184,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "R2 Storage",
@@ -97,10 +105,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/r2.insli.cc.ico",
     "slug": "r2-storage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 197,
     "timeDay": 141,
@@ -108,7 +116,7 @@
     "timeMonth": 158,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
@@ -116,35 +124,39 @@
     "url": "https://api.insli.cc",
     "icon": "https://icons.duckduckgo.com/ip3/api.insli.cc.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 122,
-    "timeWeek": 190,
-    "timeMonth": 162,
-    "timeYear": 161,
-    "dailyMinutesDown": {}
+    "timeDay": 103,
+    "timeWeek": 177,
+    "timeMonth": 159,
+    "timeYear": 160,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Upptime",
     "url": "https://status.insli.cc",
     "icon": "https://icons.duckduckgo.com/ip3/status.insli.cc.ico",
     "slug": "upptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 221,
-    "timeWeek": 192,
-    "timeMonth": 175,
+    "time": 174,
+    "timeDay": 151,
+    "timeWeek": 178,
+    "timeMonth": 172,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
