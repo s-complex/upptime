@@ -1,7 +1,7 @@
 url: https://api.insli.cc
-status: up
-code: 200
-responseTime: 122
-lastUpdated: 2025-11-17T23:18:12.258Z
+status: down
+code: 500
+responseTime: 83
+lastUpdated: 2025-11-18T11:59:50.352Z
 startTime: 2024-07-23T11:53:16.143Z
 generator: Upptime <https://github.com/upptime/upptime>
