@@ -27,15 +27,15 @@ sites:
     url: https://r2.insli.cc/index.html
     method: GET
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.insli.cc)"
+      - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
   - name: API
     url: https://api.insli.cc
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.insli.cc)"
+      - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
   - name: Upptime
     url: https://status.insli.cc
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.insli.cc)"
+      - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
 
 workflowSchedule:
   graphs: "0 */4 * * *"
@@ -49,7 +49,7 @@ workflowSchedule:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.insli.cc
+  cname: status.sirvr.win
   # baseUrl: /upptime
   logoUrl: https://library.gxres.net/images/icons/favicon.webp
   name: Sliver Complex - Status
