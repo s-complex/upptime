@@ -6,34 +6,34 @@ sites:
   - name: Homepage
     url: https://www.gxres.net
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.insli.cc)"
+      - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
   - name: Blog
     url: https://blog.gxres.net
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.insli.cc)"
+      - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
   - name: Library
     url: https://library.gxres.net
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.insli.cc)"
+      - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
   - name: Hyperlink Redirect
     url: https://link.gxres.net
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.insli.cc)"
+      - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
   - name: Sliver Complex
-    url: https://insli.cc
+    url: https://sirvr.win
     headers:
-      - "User-Agent: curl/8.2.1 (https://status.insli.cc)"
+      - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
   - name: R2 Storage
-    url: https://r2.insli.cc/index.html
+    url: https://storage.sirvr.win/index.html
     method: GET
     headers:
       - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
   - name: API
-    url: https://api.insli.cc
+    url: https://api.sirvr.win
     headers:
       - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
   - name: Upptime
-    url: https://status.insli.cc
+    url: https://status.sirvr.win
     headers:
       - "User-Agent: curl/8.2.1 (https://status.sirvr.win)"
 
