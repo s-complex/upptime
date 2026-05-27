@@ -4,21 +4,22 @@
     "url": "https://www.gxres.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.gxres.net.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 153,
-    "timeDay": 144,
-    "timeWeek": 109,
-    "timeMonth": 126,
-    "timeYear": 155,
+    "timeDay": 81,
+    "timeWeek": 97,
+    "timeMonth": 123,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2026-01-07": 136,
-      "2026-04-22": 82
+      "2026-04-22": 82,
+      "2026-05-27": 1
     }
   },
   {
@@ -26,23 +27,24 @@
     "url": "https://blog.gxres.net",
     "icon": "https://icons.duckduckgo.com/ip3/blog.gxres.net.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 150,
-    "timeDay": 136,
-    "timeWeek": 109,
-    "timeMonth": 129,
-    "timeYear": 154,
+    "timeDay": 76,
+    "timeWeek": 98,
+    "timeMonth": 126,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2025-11-18": 164,
       "2026-01-07": 136,
       "2026-02-02": 51,
       "2026-03-11": 41,
-      "2026-04-16": 45
+      "2026-04-16": 45,
+      "2026-05-27": 1
     }
   },
   {
@@ -50,20 +52,21 @@
     "url": "https://library.gxres.net",
     "icon": "https://icons.duckduckgo.com/ip3/library.gxres.net.ico",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 146,
-    "timeDay": 141,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 150,
+    "timeDay": 84,
+    "timeWeek": 108,
+    "timeMonth": 116,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2025-11-18": 161,
-      "2026-01-07": 136
+      "2026-01-07": 136,
+      "2026-05-27": 0
     }
   },
   {
@@ -71,21 +74,22 @@
     "url": "https://link.gxres.net",
     "icon": "https://icons.duckduckgo.com/ip3/link.gxres.net.ico",
     "slug": "hyperlink-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 169,
-    "timeDay": 128,
-    "timeWeek": 120,
-    "timeMonth": 126,
+    "timeDay": 73,
+    "timeWeek": 107,
+    "timeMonth": 122,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-11-18": 163,
       "2026-01-07": 136,
-      "2026-02-02": 49
+      "2026-02-02": 49,
+      "2026-05-27": 0
     }
   },
   {
